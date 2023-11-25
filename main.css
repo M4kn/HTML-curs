@@ -1,7 +1,19 @@
-html{
+html {
       font-size: 22px;
 }
-body{
+body {
       background-color: rgb(14, 14, 14);
       color: blanchedalmond;
 }    
+
+a {
+      color: #dd5555;
+}
+
+a:visited {
+      color: #4b1717;
+}
+
+a:hover, a:active {
+      color: rgb(233, 177, 177);
+}
